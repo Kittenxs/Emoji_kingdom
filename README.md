@@ -2,4 +2,8 @@
 
 ![Picture](http://puu.sh/uidoA/ed94795f55.jpg)
 
+
 Aura Kingdom Emojis BBCode 
+
+
+PHP array_flip() example :)
